@@ -1,0 +1,29 @@
+html, body
+{
+    height: 100%;
+    width: 100%;
+    background: blue;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+._1a
+{
+    height: 50%;
+    width: 100%;
+    background: rgb(18, 216, 18);
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+._1b
+{
+    height: 50%;
+    width: 100%;
+    background: rgb(221, 107, 14);
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
